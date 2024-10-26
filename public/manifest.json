@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Визуализация DBSCAN на React",
+  "name": "Визуализация DBSCAN на React",
   "icons": [
     {
       "src": "favicon.ico",
