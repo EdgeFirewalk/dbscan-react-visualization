@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dbscan-react-visualization/static/css/main.322e3d46.css",
+    "main.js": "/dbscan-react-visualization/static/js/main.ec1bb73f.js",
+    "index.html": "/dbscan-react-visualization/index.html",
+    "main.322e3d46.css.map": "/dbscan-react-visualization/static/css/main.322e3d46.css.map",
+    "main.ec1bb73f.js.map": "/dbscan-react-visualization/static/js/main.ec1bb73f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.322e3d46.css",
+    "static/js/main.ec1bb73f.js"
+  ]
+}
