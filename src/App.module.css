@@ -6,12 +6,13 @@
   top: 10px;
   left: 10px;
 
-  padding: 10px;
+  padding: 15px 20px;
 
-  background: rgba(255, 255, 255, 0.8);
-  border-radius: 5px;
+  background: rgba(255, 255, 255, 0.85);
+  border: 1px solid #808080;
+  border-radius: 12px;
 
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 8px #808080;
 }
 
 .controlsBlock {
@@ -32,7 +33,8 @@
   width: 40px;
   margin: 2px 0;
 
-  border: 1px solid black;
+  border: 1px solid #808080;
+  border-radius: 8px;
 
   text-align: center;
 
@@ -40,7 +42,12 @@
 }
 
 .numberInput:focus {
-  border: 1px solid dodgerblue;
+  border-color: #3686ff;
+}
+
+.numberInput::selection {
+  color: #ffffff;
+  background-color: #3686ff;
 }
 
 .canvas {
